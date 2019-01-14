@@ -11,6 +11,7 @@ https://www.figma.com/proto/H95uNzkCJvMu0ZbKPafOsAF7/treatment_options?node-id=2
 ## Documents ##
 Date | Version | Topics
 ------
+1/14/19 | v7.1 | -
 1/9/19 | v7 | -
 12/31/18 | v6 | -
 12/19/18 | v5.1 | -
